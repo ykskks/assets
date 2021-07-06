@@ -1,0 +1,11 @@
+# docker-compose.yml
+version: "3"
+services:
+  jupyter:
+    build: .
+    volumes:
+      - $PWD:/working
+    working_dir: /working
+    ports:
+      - 8888:8888
+    command: jupyter lab --ip=0.0.0.0 --allow-root --no-browser

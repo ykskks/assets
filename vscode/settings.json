@@ -1,0 +1,16 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnType": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "window.zoomLevel": 1,
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore=E501,W503"
+    ],
+}

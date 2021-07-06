@@ -1,0 +1,6 @@
+# ref: https://shunk031.hatenablog.com/entry/how-to-setup-vscode-for-developing-deep-learning-model
+
+- Python
+- Markdown Preview Github Styling
+- vscode-icons
+- Tabnine (メモリ注意)
