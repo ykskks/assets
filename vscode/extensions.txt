@@ -2,5 +2,6 @@
 
 - Python
 - Markdown Preview Github Styling
+- Markdown PDF
 - vscode-icons
 - Tabnine (メモリ注意)

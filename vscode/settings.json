@@ -1,4 +1,7 @@
 {
+    // "files.exclude": {
+    //     "**/.*": true
+    // },
     "editor.cursorStyle": "line",
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
@@ -13,4 +16,6 @@
     "python.linting.flake8Args": [
         "--ignore=E501,W503"
     ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticMode": "workspace"
 }
