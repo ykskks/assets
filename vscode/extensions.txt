@@ -5,3 +5,5 @@
 - Markdown PDF
 - vscode-icons
 - Tabnine (メモリ注意)
+- Live Server   
+- Python Docstring Generator
