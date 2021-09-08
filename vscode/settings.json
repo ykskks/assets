@@ -17,5 +17,8 @@
         "--ignore=E501,W503"
     ],
     "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.diagnosticMode": "workspace"
+    "python.analysis.diagnosticMode": "workspace",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestPath": "/path/to/pytest/excutable",
+    "python.testing.autoTestDiscoverOnSaveEnabled": true
 }

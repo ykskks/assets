@@ -7,3 +7,4 @@
 - Tabnine (メモリ注意)
 - Live Server   
 - Python Docstring Generator
+- Python Test Explorer
