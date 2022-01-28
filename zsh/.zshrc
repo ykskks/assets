@@ -11,3 +11,11 @@ alias your_alias="xxx"
 unsetopt correct_all
 unsetopt correct
 DISABLE_CORRECTION="true"
+
+# git alias
+alias gs="git status"
+alias ga="git add"
+alias gb="git branch"
+alias gc="git commit -m"
+alias gp="git push"
+alias gsw="git switch"
