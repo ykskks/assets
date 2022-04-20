@@ -3,6 +3,7 @@
     //     "**/.*": true
     // },
     "workbench.startupEditor": "none",
+    "window.restoreWindows": "none",
     "editor.cursorStyle": "line",
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
