@@ -2,6 +2,7 @@
     // "files.exclude": {
     //     "**/.*": true
     // },
+    "workbench.startupEditor": "none",
     "editor.cursorStyle": "line",
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
