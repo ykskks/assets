@@ -1,0 +1,7 @@
+[user]
+	name = XXX
+	email = XXX@XXX
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
