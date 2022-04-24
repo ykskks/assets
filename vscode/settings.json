@@ -1,7 +1,7 @@
 {
-    // "files.exclude": {
-    //     "**/.*": true
-    // },
+    "[html]": {
+        "editor.tabSize": 2
+    },
     "workbench.startupEditor": "none",
     "window.restoreWindows": "none",
     "editor.cursorStyle": "line",
