@@ -1,10 +1,22 @@
 # ref: https://shunk031.hatenablog.com/entry/how-to-setup-vscode-for-developing-deep-learning-model
 
-- Python
+# basics
+
 - Markdown Preview Github Styling
 - Markdown PDF
 - vscode-icons
-- Tabnine (メモリ注意)
-- Live Server   
+
+# Python
+
+- Python
 - Python Docstring Generator
 - Python Test Explorer
+
+# Web
+
+- Live Server   
+- JavaScript (ES6) code snippets
+
+# Others
+
+- Tabnine (メモリ注意)
